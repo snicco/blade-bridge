@@ -1,0 +1,1 @@
+{{ $name ?? 'no local context [name]' }}{{$globals['surname'] ?? 'no global context [surname]'}}

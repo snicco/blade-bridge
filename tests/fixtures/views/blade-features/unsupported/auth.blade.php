@@ -1,0 +1,4 @@
+@auth
+    AUTHENTICATED
+@endauth
+
